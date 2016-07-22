@@ -1,0 +1,29 @@
+body{
+	margin:0;
+	padding:0;
+}
+div{
+	width:300px;
+	height:200px;
+	position:absolute;
+}
+.pink{
+	background: #ee3e64;
+	top:0;
+	left:0;
+}
+.blue{
+	background:#44accf;
+	top:0;
+	right:0;
+}
+.green{
+	background:#b7d84d;
+	left:0; 
+	bottom:0;
+}
+.yellow{
+	background:yellow;
+	right:0; 
+	bottom:0;
+}

@@ -1,0 +1,24 @@
+/* Pon tu código css aqui */
+body{
+	margin:0;
+	padding:0;
+}
+div{
+	width:300px;
+	height:200px;
+}
+.pink{
+	background: #ee3e64;
+}
+.blue{
+	background:#44accf;
+	position:absolute;
+	top:200px;
+	left:300px;
+}
+.green{
+	background:#b7d84d;
+}
+.yellow{
+	background:yellow;
+}
