@@ -1,24 +1,22 @@
-/* Pon tu código css aqui */
-body{
-	margin:0;
-	padding:0;
+.box { 
+	position: relative; 
+	width: 200px;
+	height: 200px;
 }
-div{
-	width:300px;
-	height:200px;
+#box_1 { 
+	background: #ee3e64; 
 }
-.pink{
-	background: #ee3e64;
+#box_2 { 
+	background: #44accf; 
 }
-.blue{
-	background:#44accf;
-	position:absolute;
-	top:200px;
-	left:300px;
+#box_3 { 
+	background: #b7d84b; 
 }
-.green{
-	background:#b7d84d;
+#box_4 { 
+	background: #FFFF00;
 }
-.yellow{
-	background:yellow;
+
+#box_2{
+		position: absolute;
+		left: 200px;
 }

@@ -1,31 +1,15 @@
-/* Pon tu código css aqui */
-body{
-	margin:0;
-	padding:0;
+.box { 
+	position: 
+	relative; 
+	width: 200px; 
+	height: 200px; 
 }
-div{
-	width:200px;
-	height:200px;
-	position:relative;
-}
-.pink{
+#box_1 { 
 	background: #ee3e64;
-	top:;
-	left:400px;
-	right:; 
-	bottom:;
+ }
+#box_2 { 
+	background: #44accf; 
 }
-.blue{
-	background:#44accf;
-	top:;
-	left:;
-	right:; 
-	bottom:;
-}
-.green{
-	background:#b7d84d;
-	top:;
-	left:;
-	right:; 
-	bottom:;
+#box_3 { 
+	background: #b7d84b; 
 }

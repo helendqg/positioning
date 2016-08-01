@@ -1,19 +1,18 @@
-/* Pon tu código css aqui */
-body{
-	margin:0;
-	padding:0;
+#box_1 { 
+		position: static;
+		width: 200px;
+		height: 200px;
+		background: #ee3e64;
 }
-div{
-	width:200px;
-	height:200px;
-	position:static;
+#box_2 { 
+		position: static;
+		width: 200px;
+		height: 200px;
+		background: #44accf;
 }
-.pink{
-	background: #ee3e64;
-}
-.blue{
-	background:#44accf;
-}
-.green{
-	background:#b7d84d;
+#box_3 { 
+		position: static;
+		width: 200px;
+		height: 200px;
+		background: #b7d84b;
 }
